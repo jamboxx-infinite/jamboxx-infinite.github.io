@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Jamboxx-Infinite! on Jamboxx-infinite</title><link>https://jamboxx-infinite.github.io/</link><description>Recent content in Welcome to Jamboxx-Infinite! on Jamboxx-infinite</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jamboxx-infinite.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Voice Conversion Development Blogs #4</title><link>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-4/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-4/</guid><description>&lt;h3 id="development-blog-adding-audio-merge-functionality-and-optimizing-backend-logic"&gt;Development Blog: Adding Audio Merge Functionality and Optimizing Backend Logic&lt;/h3&gt;
+&lt;h4 id="date-2025-03-18"&gt;Date: 2025-03-18&lt;/h4&gt;
+&lt;h4 id="author-wesley-xu"&gt;Author: Wesley Xu&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
+&lt;p&gt;This development cycle focused on adding an audio merge function, refactoring audio processing logic, and optimizing model path settings for better cross-platform compatibility. These updates aim to enhance the backend&amp;rsquo;s functionality, improve maintainability, and streamline resource management.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="1-audio-merge-functionality"&gt;1. &lt;strong&gt;Audio Merge Functionality&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;:&lt;br&gt;
+We introduced a new audio merge function that allows users to upload multiple audio files and merge them into a single track. This feature is particularly useful for creating seamless audio compositions.&lt;/p&gt;</description></item><item><title>AI Voice Conversion Development Blogs #3</title><link>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-3/</link><pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-3/</guid><description>&lt;h3 id="development-blog-enhancing-model-support-and-api-infrastructure"&gt;Development Blog: Enhancing Model Support and API Infrastructure&lt;/h3&gt;
+&lt;h4 id="date-2025-03-04"&gt;Date: 2025-03-04&lt;/h4&gt;
+&lt;h4 id="author-wesley-xu"&gt;Author: Wesley Xu&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
+&lt;p&gt;This development cycle focused on improving the Jamboxx Infinite Backends by adding pre-trained model support, optimizing resource handling, and enhancing the API infrastructure. The updates include better model management, audio processing optimizations, configuration updates, and improved security measures. Below is a detailed breakdown of the changes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="1-model-management"&gt;1. &lt;strong&gt;Model Management&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;:&lt;br&gt;
+We added support for pre-trained models and improved the model loading process to ensure compatibility with the latest PyTorch updates.&lt;/p&gt;</description></item><item><title>Monthly Videos</title><link>https://jamboxx-infinite.github.io/monthly-video/</link><pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/monthly-video/</guid><description>&lt;h1 id="monthly-project-videos"&gt;Monthly Project Videos&lt;/h1&gt;
+&lt;p&gt;This page contains our monthly project update videos that demonstrate the progress of Jamboxx-Infinite throughout its development.&lt;/p&gt;
+&lt;h2 id="october-2024"&gt;October 2024&lt;/h2&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;video width="560" height="315" controls&gt;
+ &lt;source src="https://jamboxx-infinite.github.io/videos/October_video.mp4" type="video/mp4"&gt;
+ Your browser does not support the video tag.
+ &lt;/video&gt;
+&lt;/div&gt;
+&lt;h2 id="november-2024"&gt;November 2024&lt;/h2&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;video width="560" height="315" controls&gt;
+ &lt;source src="https://jamboxx-infinite.github.io/videos/November_video.mp4" type="video/mp4"&gt;
+ Your browser does not support the video tag.
+ &lt;/video&gt;
+&lt;/div&gt;
+&lt;h2 id="december-2024-and-january-2025"&gt;December 2024 and January 2025&lt;/h2&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;video width="560" height="315" controls&gt;
+ &lt;source src="https://jamboxx-infinite.github.io/videos/January_video.mp4" type="video/mp4"&gt;
+ Your browser does not support the video tag.
+ &lt;/video&gt;
+&lt;/div&gt;
+&lt;h2 id="february-2025"&gt;February 2025&lt;/h2&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;video width="660" height="370" controls&gt;
+ &lt;source src="https://jamboxx-infinite.github.io/videos/February_video.mp4" type="video/mp4"&gt;
+ Your browser does not support the video tag.
+ &lt;/video&gt;
+&lt;/div&gt;
+&lt;h2 id="march-2025"&gt;March 2025&lt;/h2&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;video width="660" height="370" controls&gt;
+ &lt;source src="https://jamboxx-infinite.github.io/videos/March_video.mp4" type="video/mp4"&gt;
+ Your browser does not support the video tag.
+ &lt;/video&gt;
+&lt;/div&gt;</description></item><item><title>AI Voice Conversion Development Blogs #2</title><link>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-2/</link><pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-2/</guid><description>&lt;h3 id="development-blog-enhancing-the-audio-processing-backend"&gt;Development Blog: Enhancing the Audio Processing Backend&lt;/h3&gt;
+&lt;h4 id="date-2025-02-25"&gt;Date: 2025-02-25&lt;/h4&gt;
+&lt;h4 id="author-wesley-xu"&gt;Author: Wesley Xu&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this development cycle, we focused on expanding the functionality of the audio processing backend by integrating new workflows, debugging existing features, and updating the documentation. These updates aim to improve the system&amp;rsquo;s capabilities in voice interaction, encoding/decoding, and diffusion-based audio synthesis. Below is a detailed breakdown of the changes made during this update.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="1-audio-conversion-and-verification-functions"&gt;1. &lt;strong&gt;Audio Conversion and Verification Functions&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;:&lt;br&gt;
+We added audio conversion and verification functions to enhance the system&amp;rsquo;s ability to process and validate audio files. These functions ensure that the input audio meets the required specifications before further processing.&lt;/p&gt;</description></item><item><title>AI voice conversion development blogs #1</title><link>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-1/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/posts/ai-voice-conversion-development-blogs-1/</guid><description>&lt;h3 id="development-blog-enhancing-the-audio-processing-backend"&gt;Development Blog: Enhancing the Audio Processing Backend&lt;/h3&gt;
+&lt;h4 id="date-2025-01-05"&gt;Date: 2025-01-05&lt;/h4&gt;
+&lt;h4 id="author-wesley-xu"&gt;Author: Wesley Xu&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this development cycle, we focused on expanding the functionality of the audio processing backend by integrating new workflows, debugging existing features, and updating the documentation. These updates aim to improve the system&amp;rsquo;s capabilities in voice interaction, encoding/decoding, and diffusion-based audio synthesis. Below, we provide a detailed breakdown of the changes made during this update.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="1-updated-requirementstxt"&gt;1. &lt;strong&gt;Updated requirements.txt&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Commit&lt;/strong&gt;: &lt;code&gt;00b50b8&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Description&lt;/strong&gt;:&lt;br&gt;
+To support the new features and workflows, we updated the requirements.txt file to include additional dependencies. These dependencies are essential for running the new functionalities, such as voice interaction and diffusion workflows.&lt;/p&gt;</description></item><item><title>Algorithms</title><link>https://jamboxx-infinite.github.io/algorithms/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/algorithms/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#core-algorithms"&gt;Core Algorithms&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#data"&gt;Data&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#experiments"&gt;Experiments&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#discussions"&gt;Discussions&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#conclusion"&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#references"&gt;References&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h1 id="algorithms-and-data-processing"&gt;Algorithms and Data Processing&lt;/h1&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;h2 id="core-algorithms"&gt;Core Algorithms&lt;/h2&gt;
+&lt;h3 id="algorithms"&gt;&lt;strong&gt;Algorithms&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id="models"&gt;&lt;strong&gt;Models&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;DDSP-SVC (Differentiable Digital Signal Processing - Singing Voice Conversion)&lt;/strong&gt; is a neural network-based model designed for high-quality voice conversion. Its key algorithms and components include:&lt;/p&gt;</description></item><item><title>Appendices</title><link>https://jamboxx-infinite.github.io/appendices/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/appendices/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#available-documents"&gt;Available Documents&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#monthly-videos"&gt;Monthly Videos&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#development-blogs"&gt;Development Blogs&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h1 id="project-appendices"&gt;Project Appendices&lt;/h1&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;p&gt;This section contains supplementary documents and resources related to the Jamboxx-infinite project:&lt;/p&gt;</description></item><item><title>Evaluation</title><link>https://jamboxx-infinite.github.io/evaluation/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/evaluation/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#moscow-requirement-achievement-table"&gt;MoSCoW requirement achievement table&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#summary-of-achievements"&gt;Summary of achievements&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#individual-contribution-table-for-system-artefacts"&gt;Individual contribution table for system artefacts&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#individual-contribution-table-for-website"&gt;Individual contribution table for website&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#critical-evaluation"&gt;Critical evaluation&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#future-work"&gt;Future work&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h1 id="project-evaluation"&gt;Project Evaluation&lt;/h1&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;h2 id="moscow-requirement-achievement-table"&gt;MoSCoW Requirement Achievement Table&lt;/h2&gt;
+&lt;p&gt;As the final step in gathering requirements, we created a prioritized list using the MoSCoW method to concentrate on the project’s objectives. This list allowed us to focus on implementing key deliverables. During the development of the application, some requirements were added or modified based on discussions with the client and potential users.&lt;/p&gt;</description></item><item><title>Implementation</title><link>https://jamboxx-infinite.github.io/implementation/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/implementation/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#ai-music-teacher-backend"&gt;AI music teacher backend&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#ai-voice-cloning-backend"&gt;AI voice cloning backend&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#unity-frontend"&gt;Unity frontend&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#virtual-instruments"&gt;Virtual instruments&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#settings"&gt;Settings&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#multiplayer"&gt;Multiplayer&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;h2 id="ai-music-teacher-backend"&gt;AI music teacher backend&lt;/h2&gt;
+&lt;h3 id="fastapi-with-llamacpp"&gt;&lt;strong&gt;FastAPI with llama.cpp&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id="project-structure-overview"&gt;Project Structure Overview&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/jamboxx-infinite/Jamboxx-infinite-backend-llama.git"&gt;Jamboxx-infinite-backend-llama&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Requirements</title><link>https://jamboxx-infinite.github.io/requirements/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/requirements/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#project-background"&gt;Project background&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#partner-introduction"&gt;Partner introduction&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#project-goals"&gt;Project goals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#requirement-gathering"&gt;Requirement gathering&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#collection-of-data"&gt;Collection of data&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#personas"&gt;Personas&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#use-cases"&gt;Use cases&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#detailed-use-cases"&gt;Detailed use cases&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#moscow-requirement-list"&gt;MoSCoW requirement list&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#references"&gt;References&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;h2 id="project-background"&gt;Project Background&lt;/h2&gt;
+&lt;p&gt;Music creation is a dream that many have. However, this dream is hard to achieve for the estimated 1.3 billion people worldwide&lt;sup&gt;[1]&lt;/sup&gt; living with disabilities. Traditional instruments and software can be inaccessible, leaving many to be unable to express their creativity with music. Hence, our mission is to make music inclusive and limitless for everyone.&lt;/p&gt;</description></item><item><title>Research</title><link>https://jamboxx-infinite.github.io/research/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/research/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#jamboxx-overview-and-key-features"&gt;Jamboxx overview and key features&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#technology-review"&gt;Technology review&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#summary-of-technical-decisions"&gt;Summary of technical decisions&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#references"&gt;References&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h1 id="research-methodology-and-findings"&gt;Research Methodology and Findings&lt;/h1&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;h3 id="related-projects-review"&gt;Related Projects Review&lt;/h3&gt;
+&lt;p&gt;Our project, &lt;strong&gt;Jamboxx-Infinite&lt;/strong&gt;, is an advanced iteration of the original &lt;strong&gt;Jamboxx&lt;/strong&gt; project. As developers with no prior music experience, we drew significant inspiration and knowledge from Jamboxx, particularly in understanding music-related functionalities and user interactions. Below is a detailed review of the existing project and how it informed our development process.&lt;/p&gt;</description></item><item><title>System Design</title><link>https://jamboxx-infinite.github.io/system-design/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/system-design/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#system-architecture-design"&gt;System Architecture design&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#multiplayer-network-flow"&gt;Multiplayer network flow&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#ai-voice-conversion-frontend-and-backend-flow"&gt;AI voice conversion frontend and backend flow&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#ai-llama-backend-flow"&gt;AI llama backend flow&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#simplified-uml-diagram"&gt;Simplified UML diagram&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#packages"&gt;Packages&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#api"&gt;API&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#site-map"&gt;Site Map&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h1 id="system-architecture-design"&gt;System Architecture design&lt;/h1&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;img src="https://jamboxx-infinite.github.io/images/system-design/system_architecture.png" alt="System Architecture" class="zoomable-image"&gt;
+&lt;/div&gt;
+&lt;p&gt;The system architecture presented in the diagram integrates multiple functional modules to enable a real-time AI-driven voice cloning and teaching platform within a Unity-based frontend. It begins with user interaction through motion input or direct control, which communicates with different modules such as AI Voice Cloning, Multiplayer, and AI Music Teacher. The Multiplayer module facilitates peer connectivity via a relay server in the cloud, which generates and manages dynamic data ports. The AI Voice Cloning client processes voice through three stages—Separation, Conversion, and Merging—by sending HTTP POST requests to a FastAPI backend service. The backend pipeline includes task dispatching, audio preprocessing, queue management, format conversion (via FFmpeg), and model inference. Audio then undergoes feature extraction and is processed by deep learning components like ModelCore, PostProcess, and OutputAudio, culminating in result storage and URL generation. Simultaneously, the AI Music Teacher module uses FastAPI to send text prompts to an AI teacher component, which leverages a local LLaMA model for real-time, token-by-token streamed responses. All backend operations are carefully orchestrated to ensure efficient audio processing and response generation, enabling seamless interaction between users, AI models, and system components.&lt;/p&gt;</description></item><item><title>Testing</title><link>https://jamboxx-infinite.github.io/testing/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/testing/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#testing-strategy"&gt;Testing strategy&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#user-acceptance-testing"&gt;User acceptance testing&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#testers"&gt;Testers&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#test-cases"&gt;Test cases&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#analysis-and-conclusion"&gt;Analysis and conclusion&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h2 id="testing-strategy"&gt;Testing Strategy&lt;/h2&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+Testing Jamboxx-Infinite was a crucial step to ensure our application meets the standards of our goals. Our main testing strategy was through user testing as we focus on delivering an application that offers user experience that is desirable. We implemented pseudo-user tests and user tests to inquire about the functionalities, usability, and receive feedbacks about further improvements and features throughout the development of our project.
+&lt;p&gt;To ensure the features of each section of our application works as intended, we identifed the sections of Jamboxx-Infinite for testing.&lt;/p&gt;</description></item><item><title>UI Design</title><link>https://jamboxx-infinite.github.io/ui-design/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://jamboxx-infinite.github.io/ui-design/</guid><description>&lt;div class="floating-toc"&gt;
+ &lt;div class="toc-header"&gt;Contents &lt;span class="toc-toggle"&gt;[-]&lt;/span&gt;&lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#application-icon"&gt;Application Icon&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#design-principles"&gt;Design Principles&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#hand-drawn-sketches"&gt;Hand Drawn sketches&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#high-fidelity-wireframes"&gt;High Fidelity Wireframes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#from-sketches-to-reality"&gt;From sketches to reality&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ // Toggle TOC visibility when header is clicked
+ const tocHeader = document.querySelector('.toc-header');
+ const tocContent = document.querySelector('.toc-content');
+ const tocToggle = document.querySelector('.toc-toggle');
+ 
+ tocHeader.addEventListener('click', function() {
+ if (tocContent.style.display === 'none') {
+ tocContent.style.display = 'block';
+ tocToggle.textContent = '[-]';
+ } else {
+ tocContent.style.display = 'none';
+ tocToggle.textContent = '[+]';
+ }
+ });
+ 
+ // Custom smooth scrolling that accounts for fixed header
+ const tocLinks = document.querySelectorAll('.floating-toc a[href^="#"]');
+ 
+ tocLinks.forEach(link =&gt; {
+ link.addEventListener('click', function(e) {
+ e.preventDefault();
+ 
+ // Get the target element
+ const targetId = this.getAttribute('href');
+ const targetElement = document.querySelector(targetId);
+ 
+ if (targetElement) {
+ // Get the height of the navbar
+ const navHeight = 100; // Approximate height of your navbar
+ 
+ // Calculate position with offset
+ const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+ const offsetPosition = targetPosition - navHeight;
+ 
+ // Smooth scroll to the target
+ window.scrollTo({
+ top: offsetPosition,
+ behavior: 'smooth'
+ });
+ }
+ });
+ });
+ 
+ // Handle zooming images
+ const images = document.querySelectorAll('.zoomable-image');
+ images.forEach(img =&gt; {
+ img.addEventListener('click', function() {
+ this.classList.toggle('zoomed');
+ });
+ });
+});
+&lt;/script&gt;
+&lt;h2 id="application-icon"&gt;Application Icon&lt;/h2&gt;
+&lt;div style="text-align: justify; font-size: 18px;"&gt;
+&lt;p&gt;To set the visual tone for the entire product, we designed a custom application icon that embodies the spirit of &lt;strong&gt;Jamboxx Infinite&lt;/strong&gt; — playful, accessible, and music-centered. The infinity symbol reflects the idea of limitless creativity, while the bright colors and friendly character style make the app immediately recognisable and appealing to children.&lt;/p&gt;</description></item></channel></rss>

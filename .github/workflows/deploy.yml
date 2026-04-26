@@ -17,15 +17,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+          bundler-cache: true
 
       - name: Build Jekyll site
         run: bundle exec jekyll build --baseurl "/"
@@ -33,7 +32,7 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
